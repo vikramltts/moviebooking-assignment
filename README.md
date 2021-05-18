@@ -13,5 +13,17 @@
 
 ![Alt Text](https://github.com/vikramltts/moviebooking-assignment/blob/main/images/Screenshot%20(89).png)
 
+databse connections with calculation of remaining seats : 
+
+![Alt Text](https://github.com/vikramltts/moviebooking-assignment/blob/main/images/Screenshot%20(87).png)
+
+![Alt Text](https://github.com/vikramltts/moviebooking-assignment/blob/main/images/Screenshot%20(86).png)
+
+output : 
+
+![Alt Text](https://github.com/vikramltts/moviebooking-assignment/blob/main/images/Screenshot%20(85).png)
+
+
+
 
 
